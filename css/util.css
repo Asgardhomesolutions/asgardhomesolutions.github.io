@@ -2969,7 +2969,12 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	line-height: 1.2;
 	color: #d61c22;
 }
-
+.conn {
+	font-family: Courgette;
+	font-size: 30px;
+	line-height: 1.2;
+	color: white;
+}
 .tit3 {
 	font-family: Poppins;
 	font-weight: 700;
